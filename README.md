@@ -58,7 +58,7 @@ me llevé de este proyecto.
    buscar estrategias que aumenten su participación en ventas.
 
 ## Visuales
-<img width="1022" height="652" alt="Resumen Ejecutivo" src="https://github.com/user-attachments/assets/d1117dfa-e70f-48fc-b1e5-19962077ab91" />
+<img width="1142" height="526" alt="Resumen Ejecutivo" src="https://github.com/user-attachments/assets/9fec2e0a-7680-458f-949b-80a63f86b2d3" />
 <img width="1346" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/27ae91c7-ca2f-4e4a-8ee0-2fa371c99ba4" />
 
 ## Entregable
