@@ -1,19 +1,23 @@
 # Resumen ejecutivo de ventas Walmart: eficiencia y participación por departamento
 
+En resumen, este proyecto es descubrir qué departamentos de Walmart aprovechan 
+mejor su espacio en tienda y cuáles no, para saber dónde vale la pena invertir más 
+metros y dónde conviene reducir.
+
+## Visuales
+<img width="1346" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/27ae91c7-ca2f-4e4a-8ee0-2fa371c99ba4" />
+<img width="1142" height="526" alt="Resumen Ejecutivo" src="https://github.com/user-attachments/assets/9fec2e0a-7680-458f-949b-80a63f86b2d3" />
+
 ## Desafío
 La Dirección Comercial de Walmart necesitaba un resumen ejecutivo para decidir 
 ajustes de presupuesto e inventario, respondiendo dos preguntas: qué departamentos 
 fueron más eficientes generando ventas por metro cuadrado en 2012, y cuáles 
 aportaron más al negocio frente a los que estuvieron por debajo de su potencial.
 
-En resumen, este proyecto es descubrir qué departamentos de Walmart aprovechan 
-mejor su espacio en tienda y cuáles no, para saber dónde vale la pena invertir más 
-metros y dónde conviene reducir.
-
 ## Datos
 Datos de ventas semanales de 2012 por tienda y departamento, junto con catálogos de 
 departamentos (nombres) y tiendas (tipo A/B y tamaño en m²), todo trabajado en 
-Excel/Google Sheets.
+Google Sheets.
 
 ## Proceso
 - Limpieza de los datos crudos: unión de ventas con los catálogos de departamento y 
@@ -57,10 +61,8 @@ me llevé de este proyecto.
    tienen alta eficiencia pero baja participación, mantener o ampliar su espacio y 
    buscar estrategias que aumenten su participación en ventas.
 
-## Visuales
-<img width="1142" height="526" alt="Resumen Ejecutivo" src="https://github.com/user-attachments/assets/9fec2e0a-7680-458f-949b-80a63f86b2d3" />
-<img width="1346" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/27ae91c7-ca2f-4e4a-8ee0-2fa371c99ba4" />
-
 ## Entregable
-Archivo de Excel con todas las hojas del proceso (datos crudos, datos limpios, 
-tablas dinámicas, dashboard y resumen ejecutivo): https://drive.google.com/drive/folders/1_FXcqfcaNWCn2Sq8bSUeZBgalisIgXW4?usp=sharing
+La imagen de arriba ya muestra el dashboard completo con sus KPIs y gráficos. Si 
+quieres explorarlo de forma interactiva (cambiar el departamento en el menú 
+desplegable) o revisar el detalle de la limpieza y las tablas dinámicas, aquí está 
+el archivo completo en Google Sheets: https://drive.google.com/drive/folders/1_FXcqfcaNWCn2Sq8bSUeZBgalisIgXW4?usp=sharing
